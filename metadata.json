@@ -1,0 +1,6 @@
+{
+  "name": "LIKO-Sidoarjo",
+  "description": "Layanan Informasi Ketenagakerjaan Otomatis Kabupaten Sidoarjo — Portal FAQ, Email API 24/7, Tiket Konsultasi, dan Dashboard Analitik ASN Dinas Tenaga Kerja Kabupaten Sidoarjo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
